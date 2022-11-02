@@ -1,4 +1,5 @@
 extends Node
+class_name Character
 
 # Health
 export var health = 100
