@@ -1,9 +1,9 @@
-extends Node
+extends KinematicBody2D
 class_name Character
 
 # Health
 export var health = 100
-var max_health = 100
+export var max_health = 100
 
 # States
 var died = false
