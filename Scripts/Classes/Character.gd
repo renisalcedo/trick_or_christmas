@@ -9,7 +9,7 @@ export var max_health = 100
 var died = false
 
 # Physics Motion
-const GRAVITY = 200
+const GRAVITY = 50
 const FRICTION = 0.5
 export var max_speed = 500
 export var speed = 100
